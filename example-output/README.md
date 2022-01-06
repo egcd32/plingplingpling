@@ -13,7 +13,6 @@
 
 * [5. A bird's view dream house.mp3](https://github.com/egcd32/plingplingpling/blob/main/example-output/5%20A%20bird's%20view%20dream%20house.mp3?raw=true)
 
-<script>
+<!--
 var audio = new Audio("https://raw.githubusercontent.com/egcd32/plingplingpling/main/example-output/5%20A%20bird's%20view%20dream%20house.mp3")
-audio.play()
-</script>
+-->
